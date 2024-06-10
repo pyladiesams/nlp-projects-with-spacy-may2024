@@ -8,7 +8,7 @@ You can ask him anything about the stack and he will also have some freebies to 
 
 ## Usage
 
-* install libraries from [requirements.txt](requirements.txt) with pip
+* (optional) install libraries from [requirements.txt](requirements.txt) with pip
 * start [Jupyter notebook](workshop/NLP_projects_with_spaCy.ipynb)
 
 ## Video record
